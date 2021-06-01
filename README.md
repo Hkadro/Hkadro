@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hkadro
 - 👀 I’m interested in Cybersecurity
 - 🌱 I’m currently learning Python and Javascript
-- 💞️ I’m looking to collaborate on ...
+- :national_park: I know HTML, CSS, MIPS assembly and C++.
 - 📫 How to reach me kadro.heaven@gmail.com
 
 <!---
