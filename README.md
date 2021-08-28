@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hkadro
-- 👀 I’m interested in Cybersecurity
+- 👀 I’m primarily interested in Cybersecurity and UX/UI Design, but I'm not limited to just those fields!
 - 🌱 I’m currently learning Python and Javascript
 - :national_park: I know HTML, CSS, MIPS assembly and C++.
 - 📫 How to reach me kadro.heaven@gmail.com
